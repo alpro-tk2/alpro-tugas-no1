@@ -22,7 +22,14 @@ print("Penjumlahan:", penjumlahan)
 print("Pengurangan:", pengurangan)
 print("Perkalian:", perkalian)
 print("Pembagian:", pembagian)
-print("Modulus:", modulus)``
+print("Modulus:", modulus)
+
+
+
+
+
+
+
 
 
 
