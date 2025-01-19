@@ -53,8 +53,8 @@ print("Apakah nilai sangat tinggi?", nilai_tinggi)  # False
 ---
 
 ### 3. **Anggota C: Operator Logika dan Keanggotaan**
-**Nama:** [Isi nama Anggota C] </br>
-**Nim:** [Isi nim Anggota C]  </br>
+**Nama:** [Muhammad Nazar] </br>
+**Nim:** [i.2410169]  </br>
 **Branch:** `logic-membership` </br>
 
 #### Deskripsi
