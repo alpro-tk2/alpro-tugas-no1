@@ -1,5 +1,5 @@
 # alpro-tk1
-Project team-2 untuk tugas alpro ke-1
+Project Kelompok -2 Algoritma Pemrograman (kelompok)
 
 ## Struktur Proyek
 
